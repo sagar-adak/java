@@ -1,3 +1,5 @@
+// write a java program scanner in user
+
 import java.util.Scanner;
 
 public class scaner {
