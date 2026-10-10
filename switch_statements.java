@@ -1,3 +1,12 @@
+// Write a Java program that takes a number from 1 to 7 and prints the corresponding day:
+// 1 → Monday
+// 2 → Tuesday
+// 3 → Wednesday
+// 4 → Thursday
+// 5 → Friday
+// 6 → Saturday
+// 7 → Sunday
+
 import java.util.Scanner;
 
 public class switch_statements {
