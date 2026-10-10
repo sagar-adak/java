@@ -1,3 +1,5 @@
+// Write a Java program that prints all the even numbers using a for loop.
+
 import java.util.Scanner;
 
 public class For_loop {
