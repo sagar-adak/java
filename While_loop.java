@@ -1,4 +1,4 @@
-// Write a Java program that prints the numbers only for evn using a while loop.
+// Write a Java program that prints the numbers only for evn-number using a while loop.
 
 import java.util.Scanner;
 
