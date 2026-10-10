@@ -1,3 +1,5 @@
+// Write a Java program to print all elements of an integer array. (1D array)
+
 public class D1_array {
     public static void main(String[] args) {
         int[] sagar = {10,20,30,40,50};
