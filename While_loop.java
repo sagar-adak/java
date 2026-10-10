@@ -1,3 +1,5 @@
+// Write a Java program that prints the numbers only for evn using a while loop.
+
 import java.util.Scanner;
 
 public class While_loop {
