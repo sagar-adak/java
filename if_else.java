@@ -1,3 +1,5 @@
+// write a java program if-else condition 
+
 import java.util.Scanner;
 
 public class if_else {
